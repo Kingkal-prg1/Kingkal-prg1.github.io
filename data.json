@@ -1,1 +1,58 @@
-
+{
+  "players": [
+    {
+      "username": "_648k",
+      "tier": "LT3",
+      "points": 12,
+      "region": "North America",
+      "position": 12471,
+      "gameModes": {
+        "sword": {
+          "tier": "HT1",
+          "points": 45
+        },
+        "axe": {
+          "tier": "HT5",
+          "points": 8
+        },
+        "uhc": {
+          "tier": "HT5",
+          "points": 12
+        },
+        "cpvp": {
+          "tier": "LT1",
+          "points": 5
+        },
+        "pot": {
+          "tier": "LT2",
+          "points": 20
+        }
+      }
+    },
+    {
+      "username": "TestPlayer",
+      "tier": "HT3",
+      "points": 85,
+      "region": "Europe",
+      "position": 5420,
+      "gameModes": {
+        "sword": {
+          "tier": "HT3",
+          "points": 30
+        },
+        "axe": {
+          "tier": "LT3",
+          "points": 25
+        },
+        "uhc": {
+          "tier": "HT4",
+          "points": 15
+        },
+        "cpvp": {
+          "tier": "LT4",
+          "points": 15
+        }
+      }
+    }
+  ]
+}
